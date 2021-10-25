@@ -1,13 +1,10 @@
-## Boas vindas ao repositório do projeto Trivia Quizz!
+## Boas vindas ao repositório do projeto Commerce in MongoDB!
 
 ## Meus comentários
 
-Durante o curso de desenvolvimento da Trybe, nós fizemos trabalhos em equipe de 04 pessoas.
-Neste caso em especial, fizemos um projeto de perguntas e respostas através de uma API utilizando a tecnologia React e Redux para adquirir as peguntas e respostas randomicamente.
+Projeto em backend realizado para simular a pesquisa e inserção de dados de um comercio, visando a aprendizagem na criação das querys e dos conceitos em MongoDBs.
 
-Desde o ínicio desse projeto, me coloquei a disposição da equipe para liderar, coodenar e auxiliar na comunicação da euipe, além de ajudar no ato de codar, fui responsável por estabelecer prazos de entrega bem como ouvir os outros colegas participantes e realocar recursos para viabilizar a conquista da equipe. Tivemos 100% na execução do projeto.
-
-Com este projeto, tive a percepção da minha qualidade como líder, facilitador, administrador de metas e prazos, capacidade de influenciar os indivíduos em dar senso de pertencimento do projeto.
+Com este projeto, pude entender ainda mais o universo do Mongo DB e criar o entendimento apara como trabalhar com ele no node.js.
 
 ## Tecnologias utilizadas:
   - MongoDB
